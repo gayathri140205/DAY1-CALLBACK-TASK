@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(12, 145, 123);
+    color: rgb(15, 72, 81);
+  }
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    margin: 250px auto;
+  }
